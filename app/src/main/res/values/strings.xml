@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Animations</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_profile_sceen">ProfileSceen</string>
+
+    <string name="app_title">MY ASSIGNMENT</string>
+    <string name="my_profile">MY PROFILE </string>
+    <string name="user_name">Mansi \nSharma</string>
+    <string name="download">DOWNLOAD</string>
+    <string name="my_projects">MY PROJECTS</string>
+    <string name="experince">MY EXPERIENCE</string>
+    <string name="play">PLAY</string>
+    <string name="read_more">READ MORE</string>
+    <string name="contact_us">CONTACT US</string>
+    <string name="my_bio">Dynamic IT professional with demonstrated history of working. Skilled in Java, Android and strong engineering professional with Bachelor in Computer Science Engineering.</string>
+
+</resources>

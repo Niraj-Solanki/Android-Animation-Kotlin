@@ -1,0 +1,35 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowActivityTransitions">true</item>
+        <item name="android:windowFullscreen">true</item>
+
+        <item name="android:fontFamily">@font/oswald_medium</item>
+
+
+        <!-- specify enter and exit transitions -->
+        <item name="android:windowEnterTransition">@transition/change_image</item>
+        <item name="android:windowExitTransition">@transition/change_image</item>
+
+        <!-- specify shared element transitions -->
+        <!--<item name="android:windowSharedElementEnterTransition">@transition/change_image</item>-->
+        <!--<item name="android:windowSharedElementExitTransition">@transition/change_image</item>-->
+
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+
+</resources>
